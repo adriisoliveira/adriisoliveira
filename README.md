@@ -10,7 +10,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://capricho.abril.com.br/wp-content/uploads/2017/06/code.gif">
+  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/823293646501314633/853812812668207114/5347818437cb4d1d9935fb06e6d90ab5.mov">
 </div>
   
   ##
