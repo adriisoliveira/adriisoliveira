@@ -25,7 +25,7 @@
   <img align="center" alt="Dri-Sql" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
   <img align="center" alt="Dri-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   
-  <img align="right" alt="Dri" src="https://media.discordapp.net/attachments/823293646501314633/853814215721746452/video0_1.gif?width=191&height=252">
+  <img align="right" alt="Dri" src="https://media.discordapp.net/attachments/823293646501314633/853814215721746452/video0_1.gif?width=151&height=227">
 </div>
   
   ##
