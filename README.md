@@ -4,13 +4,7 @@
  - 📜 Estudando Python no momento
  - 🏝️ Desenvolvo por hobby
  
- <div>
-  <a href="https://https://github.com/adriisoliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adriisoliveira&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriisoliveira&layout=compact&langs_count=16&theme=cobalt"/>
-
-</div>
-<div style="display: inline_block"><br>
+ <div style="display: inline_block"><br>
   <img align="center" alt="Dri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg">
   <img align="center" alt="Dri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Dri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -24,7 +18,17 @@
   <img align="center" alt="Dri-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="Dri-Sql" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
   <img align="center" alt="Dri-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  
+</div>
+
+##
+
+<div>
+  <a href="https://https://github.com/adriisoliveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adriisoliveira&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriisoliveira&layout=compact&langs_count=16&theme=cobalt"/>
+
+</div>
+<div style="display: inline_block"><br>
   <img align="right" alt="Dri" src="https://media.discordapp.net/attachments/823293646501314633/853814215721746452/video0_1.gif?width=151&height=227">
 </div>
   
