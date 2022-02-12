@@ -1,7 +1,7 @@
 ## Oiie! Eu sou a Dri Oliveira 
 
  - 👩🏽‍💻 Hoje eu trabalho com automação de testes
- - 📜 Estudando Python no momento
+ - 📜 Pós Graduanda em Engenharia da qualidade de Software
  - 🏝️ Desenvolvo por hobby
  
  <div style="display: inline_block"><br>
